@@ -122,6 +122,9 @@ body {
     .card__image {
         background: url('./images/image-header-mobile.jpg');
     }
+    .card__content {
+        padding: 50px;
+    }
     .card__footer {
         flex-direction: column;
         justify-content: center;
